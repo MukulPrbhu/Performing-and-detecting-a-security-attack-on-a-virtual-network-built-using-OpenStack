@@ -8,7 +8,7 @@ traditional computing systems. As a result, cloud security is at the forefront o
 research.
 Through this project, we aim to gain a deeper practical understanding of cloud computing security
 by launching a virtual network-based attack using OpenStack, a widely popular open-source cloud
-computing infrastructure software project.<be><br>The implementation of this project can be broadly
+computing infrastructure software project.<br><br>The implementation of this project can be broadly
 categorized into three major phases:<br>
 i. Installation & Configuration of OpenStack Infrastructure and Required Computing Resources<br>
 ii. Network Attack Simulation<br>
